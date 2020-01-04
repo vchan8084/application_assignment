@@ -8,7 +8,7 @@ An app that displays a random movie quote!
 
 ### To Install
 
-Please run
+Please run:
 
 ```
 npm install
